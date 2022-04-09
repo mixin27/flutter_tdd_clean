@@ -1,4 +1,4 @@
-import 'package:flutter_tdd_clean/features/number_trivia/domain/entities/number_trivia.dart';
+import '../../domain/entities/number_trivia.dart';
 
 class NumberTriviaModel extends NumberTrivia {
   const NumberTriviaModel({
